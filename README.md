@@ -10,5 +10,5 @@
 </p>
 
 ## Контакты
-* telegram: [@pechhenka](t.me/pechhenka)
+* telegram: [@pechhenka](https://t.me/pechhenka)
 * email: [mail@pechhenka.ru](mailto:mail@pechhenka.ru)
