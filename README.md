@@ -10,5 +10,5 @@
 </p>
 
 ## Контакты
-* telegram: [@pechhenka](https://t.me/pechhenka)
+* telegram: [@psharaev](https://t.me/psharaev)
 * email: [i@psharaev.ru](mailto:i@psharaev.ru)
