@@ -11,4 +11,4 @@
 
 ## Контакты
 * telegram: [@pechhenka](https://t.me/pechhenka)
-* email: [mail@pechhenka.ru](mailto:mail@pechhenka.ru)
+* email: [i@psharaev.ru](mailto:i@psharaev.ru)
